@@ -37,7 +37,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>SurvivalCommCenter</h1>
+        <h1>Crisis Connect</h1>
         <h2>Helpline No: 0471-2730045</h2>
         <SignOut />
       </header>
